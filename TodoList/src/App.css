@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.input {
+  margin-right: 10px;
+}
+.App {
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: #f4f4f4; /* Added a background color */
+}
+
+.input {
+  margin-right: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button {
+  margin-left: 10px;
+  background-color: #ee7214;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.box {
+  margin: 20px auto; /* Center the box horizontally */
+  max-width: 400px; /* Limit the width of the box */
+}
+
+.space {
+  margin-right: 10px;
+}
+
+.task {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.task p {
+  flex: 1;
+  margin: 0;
+}
+
+.task .actions {
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  margin-left: 10px;
+  background-color: #ee7214;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.box {
+  margin-right: 180px;
+}
+
+.space {
+  margin-right: 10px;
+}
